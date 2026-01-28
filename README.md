@@ -1,4 +1,6 @@
-# ESP32 Master–Slave Smart Light System
+# ESP32 Smart Light System
+
+<img width="420" height="753" alt="bike" src="https://github.com/user-attachments/assets/ed28e916-e449-4762-b7a7-bcac22c2b776" />
 
 ## Overview
 This project implements a wireless master–slave control system using two ESP32 microcontrollers. The system enables synchronized lighting behavior, such as brake lights and turn signals, through real-time communication between devices.
